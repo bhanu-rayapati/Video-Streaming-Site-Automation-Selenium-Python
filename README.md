@@ -1,6 +1,6 @@
 # Video-Streaming-Site-Automation-Selenium-Python-BDD-Framework
 
-Welcome to the **Video Streaming Site Automation Framework**, a robust test automation solution designed for video streaming platforms. This framework leverages **Selenium**, **Python**, and **Pytest-BDD** to automate end-to-end user journeys, including login, video playback, volume control, resolution changes, and logout.
+Welcome to the **Video Streaming Site Automation Framework**, a test automation solution designed for video streaming platforms. This framework leverages **Selenium**, **Python**, and **Pytest-BDD** to automate end-to-end user journeys, including login, video playback, volume control, resolution changes, and logout.
 
 
 ## 🚀 Key Features
